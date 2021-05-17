@@ -46,8 +46,8 @@ Also to look have a look at your ```plant diseases classification model``` pleas
 
 # Contributors
 
-* Elvis Dsouza [@ejson03](https://github.com/ejson03)
 * Vedant Sahai [@Vedantsahai18](https://github.com/Vedantsahai18)
+* Elvis Dsouza [@ejson03](https://github.com/ejson03)
 
 # License
 
